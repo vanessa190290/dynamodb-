@@ -1,0 +1,6 @@
+# dynamodb-
+Repositório para o live coding do Amazon DynamoDB
+{
+    ":artist":{"S":"Iron Maiden"},
+    ":title":{"S":"Weekend Warrior"}
+}
